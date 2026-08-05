@@ -4,9 +4,9 @@ API_VENTA  = "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD04638PD
 
 # --- Base de datos ---
 MYSQL_HOST = "localhost"
-MYSQL_USER = "root"
-MYSQL_PASS = ""          # pon tu clave si tienes
-MYSQL_DB   = "factoringdev"
+MYSQL_USER = "tipocambiodev-user"
+MYSQL_PASS = "tipo@cambio@12345"          # pon tu clave si tienes
+MYSQL_DB   = "tipocambiodev"
 
 # --- Otros parámetros ---
 DIAS_RANGO = 7           # rango de días hacia atrás
